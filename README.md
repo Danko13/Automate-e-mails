@@ -1,4 +1,5 @@
 Project: Sending members dues reminder emails
+
 Used Libraries: openpyxl, smtplib
 
 Creating a script, which will read data (members dues info) from an Excel spreadsheet,
